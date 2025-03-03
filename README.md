@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1da1608d-4aa3-4a0d-a974-7be3dce67fa7)Artificial Intelligence A (2025 Spring)
+Artificial Intelligence A (2025 Spring)
 ==========================
 
 - 课堂：每周二3-5，H3409
