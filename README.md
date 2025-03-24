@@ -3,7 +3,7 @@ Artificial Intelligence A (2025 Spring)
 
 - 课堂：每周二3-5，H3409
 - 主讲教师：[陈智能](https://zhinchenfd.github.io)
-- 助教：[叶兴松](https://yesianrohn.github.io)、雷一鸣、张园园、陈品轩
+- 助教：[叶兴松](https://yesianrohn.github.io)、雷一鸣、张园园、陈品轩、罗扬、高雅
 - 讨论交流：微信群、github仓库PR
 - 期末考试：2025-06-10 13:00-15:00 [闭卷]
 - 评分：平时成绩（10%）、课程实践（40%）、期末考试（50%）
