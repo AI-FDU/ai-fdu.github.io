@@ -18,4 +18,4 @@ Artificial Intelligence A (2025 Spring)
 | 04.08~04.28  |   8、9、10   | [DL实践 - 街景字符识别](https://github.com/AI-FDU/Char_Recognizer)                      | 课后实践 |    陈品轩          | 8 |
 | 04.15~04.28  |   9、10   | [LLM入门实践 - 评测开源大模型在专业领域下的性能](https://github.com/AI-FDU/LLM-Eval)        | 随堂练习 |   高雅           | 3 |
 | 04.22~05.26  |   10~15   | [LLM实践 - 小学数学应用题自动解题](https://github.com/AI-FDU/Math_Solver)            | 课后实践 |       叶兴松、罗扬       | 15 |
-| 04.29~05.12  |   11、12   | [RL实践 - 基于Gym的RL算法实现](https://github.com/AI-FDU/RL_Gym)                    | 课后实践 |      雷一鸣        | 8 |
+| 04.29~05.12  |   11、12   | [RL实践 - 基于Gym的RL算法实现](https://github.com/AI-FDU/DQN-Atari_Games)                    | 课后实践 |      雷一鸣        | 8 |
